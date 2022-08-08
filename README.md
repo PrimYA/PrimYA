@@ -1,6 +1,7 @@
 ### Olá eu sou a Bianca Gonçalves 🚀
 
 - 🔭 Hoje estudo front-end e mobile
+- 🌱 Aprendendo kotlin/ java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
