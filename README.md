@@ -1,16 +1,19 @@
-### Olá eu sou a Bianca Gonçalves 🚀
+# Olá 👋, eu sou a Bianca Gonçalves 🚀
 
-- 🔭 Hoje estudo front-end e mobile
-- 🌱 Aprendendo kotlin/ java
+### 
+
+- 🔭 Hoje estudo Front-end | Mobile
+- 🌱 Aprendendo Kotlin/ Java
 
 __ 🚧
 
 <div>
-  <img align="right" alt="hello-world-gif" width=350 src="">
+  <a href="https://gifyu.com/image/ST32Z"><img align="right" alt="hello-world-gif" width=350 src="https://s4.gifyu.com/images/animaGitfix.gif" alt="animaGitfix.gif" border="0" /></a>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=primya&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="primya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primya&theme=dark" alt="primya" /></p>
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
