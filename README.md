@@ -6,7 +6,7 @@
 __ 🚧
 
 <div>
-  <img align="right" alt="hello-world-gif" width=350 src="https://s4.gifyu.com/images/animaGit.gif">
+  <img align="right" alt="hello-world-gif" width=350 src="">
 </div>
 
 
