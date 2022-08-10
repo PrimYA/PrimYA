@@ -13,8 +13,8 @@
 __ 🚧
 
 <div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=primya&show_icons=true&theme=great-gatsby&hide_border=true&locale=en&layout=compact" alt="primya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primya&theme=great-gatsby" alt="primya" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=primya&show_icons=true&theme=solarized-light&hide_border=true&locale=en&layout=compact" alt="primya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primya&theme=solarized-light&hide_border=true" alt="primya" /></p>
 </div>
 
 
