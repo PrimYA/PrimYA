@@ -8,7 +8,7 @@
 - 🌱 Aprendendo Kotlin/ Java
 - 🏳‍🌈 Pronome: ela/dela
 - 🌳 Amo animais e o meio ambiente
-- 📫 Contato: biancagoncalves.premie@gmail.com
+- 📫 Contato: bianca.gondev@gmail.com
 
 __ 🚧
 
