@@ -4,11 +4,11 @@
 
 ### 
 
-- 🔭 Hoje estudo Front-end | Mobile
-- 🌱 Aprendendo Kotlin/ Java
-- 🏳‍🌈 Pronome: ela/dela
-- 🌳 Amo animais e o meio ambiente
-- 📫 Contato: bianca.gondev@gmail.com
+- 🔭 Hoje estudo Front-end;
+- 🌱 Aprendendo muito com Bootcamps e Dev Weeks;
+- 🏳‍🌈 Pronome: ela/dela;
+- 🌳 Amo animais e o meio ambiente;
+- 📫 Contato: bianca.gondev@gmail.com ;
 
 __ 🚧
 
