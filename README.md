@@ -10,9 +10,7 @@
 - 🌳 Amo animais e o meio ambiente;
 - 🎧 Ouvindo: GOLDWING - Billie Eilish;
   
-  <!--
-- 📫 Contato: bianca.gondev@gmail.com ;
--->
+
 __ 🚧
 
 <div>
@@ -22,5 +20,8 @@ __ 🚧
 
 
 <!--
+ 
+- 📫 Contato: bianca.gondev@gmail.com ;
+
 ![Snake animation](https://github.com/PrimYA/PrimYA/blob/output/github-contribution-grid-snake.svg)
 -->
