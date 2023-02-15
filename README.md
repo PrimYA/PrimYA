@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou a Bianca Gonçalves 🚀<h1/>
+<h1 align="center">Olá 👋, eu sou a Bianca Gonçalves 🚀</h1>
 <h3 align="center">  </h3>
 <img align="right" alt="hello-world-gif" width=350 src="https://media.giphy.com/media/rdkel6spIkIBbLi27V/giphy.gif" alt="animaGitfix.gif" border="0" />
 
