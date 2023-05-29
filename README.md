@@ -8,7 +8,6 @@
 - 🌱 Aprendendo muito com Bootcamps e Dev Weeks;
 - 🏳‍🌈 Pronome: ela/dela;
 - 🌳 Amo animais e o meio ambiente;
-- 🎧 Ouvindo: GOLDWING - Billie Eilish;
   
 
 __ 🚧
